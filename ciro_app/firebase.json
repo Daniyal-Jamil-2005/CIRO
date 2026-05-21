@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ciro-by-daniyal",
+          "appId": "1:527554271856:android:1367101e19be4378e0f2b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ciro-by-daniyal",
+          "configurations": {
+            "android": "1:527554271856:android:1367101e19be4378e0f2b5",
+            "ios": "1:527554271856:ios:8623b776d575a0a6e0f2b5",
+            "macos": "1:527554271856:ios:8623b776d575a0a6e0f2b5",
+            "web": "1:527554271856:web:44999f0524ff8ffbe0f2b5",
+            "windows": "1:527554271856:web:a8948b8784b1339ee0f2b5"
+          }
+        }
+      }
+    }
+  }
+}

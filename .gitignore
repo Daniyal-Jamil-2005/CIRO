@@ -1,0 +1,76 @@
+# Flutter
+ciro_app/build/
+ciro_app/.dart_tool/
+ciro_app/.packages
+ciro_app/.pub-cache/
+ciro_app/pubspec.lock
+ciro_app/.flutter-plugins
+ciro_app/.flutter-plugins-dependencies
+ciro_app/coverage/
+ciro_app/.idea/
+ciro_app/*.iml
+
+# Android
+ciro_app/android/.gradle/
+ciro_app/android/local.properties
+ciro_app/android/app/debug/
+ciro_app/android/app/release/
+
+# iOS
+ciro_app/ios/Pods/
+ciro_app/ios/Podfile.lock
+ciro_app/ios/Flutter/Flutter.framework/
+ciro_app/ios/Flutter/Flutter.podspec
+
+# macOS
+ciro_app/macos/Pods/
+ciro_app/macos/Podfile.lock
+ciro_app/macos/Flutter/Flutter-Release.podspec
+
+# Python backend
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.venv/
+backend/venv/
+backend/.env
+backend/.env.local
+backend/agents/**/__pycache__/
+backend/agents/**/*.py[cod]
+backend/pollers/**/__pycache__/
+backend/pollers/**/*.py[cod]
+
+# Environment variables and credentials
+*.env
+*.env.local
+*.env.*.local
+.env.production
+google-services.json
+firebase_options.dart
+firestore.rules
+secrets/
+
+# IDE
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node/Web
+Ui/node_modules/
+Ui/dist/
+Ui/.next/
+Ui/build/
+Ui/.env.local
+
+# OS
+.DS_Store
+*.log
+*.pot
+.AppleDouble
+.LSOverride
+*.sublime-project
+*.sublime-workspace

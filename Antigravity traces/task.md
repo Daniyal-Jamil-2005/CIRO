@@ -1,0 +1,19 @@
+- `[ ]` Update `CIRO_Project_Doc.md` and `CIRO_Design_Spec.md` to include detailed specifications for the "Report Disaster" (S8) and "Volunteer Alert" screens.
+- `[ ]` Create a copy of the task list in `Antigravity traces` directory.
+- `[ ]` Configure Flutter project dependencies (`lucide_icons`, `flutter_riverpod`, `google_maps_flutter`, `flutter_animate`) in `pubspec.yaml`.
+- `[ ]` Set up the base theme (`lib/theme.dart`) and global UI components (`lib/ui/components/`).
+- `[ ]` Implement `S1Onboarding` screen.
+- `[ ]` Implement `S2Map` screen with Status Strip and FAB.
+- `[ ]` Implement `S3Detail` (Crisis Detail Sheet).
+- `[ ]` Implement `S4DeepDive` screen.
+- `[ ]` Implement `S5Feed` (Live Signal Feed).
+- `[ ]` Implement `S6Trace` (Agent Execution Trace).
+- `[ ]` Implement `S7Analytics` screen.
+- `[ ]` Implement `S8Report` (Report Disaster screen).
+- `[ ]` Implement `S9Notifications` (Alert History).
+- `[ ]` Implement `S10Settings` (Settings & System Health).
+- `[ ]` Implement `S11Sim` (Simulation Bottom Sheet).
+- `[ ]` Implement `S12More` (More Menu).
+- `[ ]` Implement `SVolunteer` (Volunteer Alert screen).
+- `[ ]` Wire up navigation and Riverpod providers for mock state.
+- `[ ]` Verify application layout and visual consistency with the React mock.
