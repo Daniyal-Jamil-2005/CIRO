@@ -1,5 +1,8 @@
 # CIRO - Crisis Intelligence & Response Operations
 
+<img width="720" height="1612" alt="Landing page" src="https://github.com/user-attachments/assets/e176b480-0f7d-4030-add8-8c05cea3c8a1" />
+
+
 A comprehensive crisis management platform combining real-time intelligence gathering, automated event detection, and coordinated response execution across mobile, backend, and web interfaces.
 
 ## Project Overview
@@ -10,6 +13,12 @@ CIRO is designed to detect, analyze, and respond to emerging crises in real-time
 - **Backend** (Python): Multi-stage agent pipeline for crisis extraction, detection, planning, and execution
 - **External Integrations**: Social media polling, weather data feeds, and automated response dispatch
 - **UI Framework**: Modern web interface for centralized monitoring (React/TypeScript/Vite)
+<img width="720" height="1612" alt="map 3" src="https://github.com/user-attachments/assets/8abe0a2a-2ed1-4e6d-a883-021d7f8d1e80" />
+
+
+
+<img width="720" height="1612" alt="Map with disasters" src="https://github.com/user-attachments/assets/aa14389d-e461-4617-a59a-c579c84fe646" />
+
 
 ## Architecture
 
@@ -255,6 +264,7 @@ pytest
 cd Ui
 npm test
 ```
+<img width="720" height="1612" alt="map 2" src="https://github.com/user-attachments/assets/32ed4a9c-ff7b-451b-a6ff-f98438e818d5" />
 
 ## Known Issues & Future Work
 
@@ -270,6 +280,7 @@ npm test
 - [Technical Architecture](Antigravity%20traces/CIRO_Project_Doc.md) - Database schema, APIs, integration points
 - [Implementation Plan](Antigravity%20traces/implementation_plan.md) - Feature roadmap and milestone tracking
 - [Walkthrough](Antigravity%20traces/walkthrough.md) - Step-by-step user and developer guides
+<img width="720" height="1612" alt="Agent creating plan and alerting authorities" src="https://github.com/user-attachments/assets/b22e4af8-e10c-471b-a40b-4ee903d88067" />
 
 ## License
 
