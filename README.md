@@ -75,21 +75,7 @@ Get the compiled mobile application directly on your Android device:
   <b>4. Analytics:</b> Impact & Severity Metrics
 </p>
 
----
 
-## 💻 Web Control Center
-
-> The central command web dashboard built with React 18, TypeScript, and Vite offers command-center operators real-time situational awareness and high-level incident monitoring.
-
-<p align="center">
-  <img src="docs/assets/screenshots/web_ui_overview.png" width="850" alt="Web Incident Control Center" />
-</p>
-
-<p align="center">
-  <img src="docs/assets/screenshots/web_dashboard.png" width="850" alt="Web Dashboard Interface" />
-</p>
-
----
 
 ## 🏗️ System Architecture
 
